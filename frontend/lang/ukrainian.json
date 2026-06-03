@@ -382,7 +382,7 @@
     "t_project_toml_editor_backup_checkbox": "Create a backup of the notebook before saving?",
     "t_project_toml_editor_cancel": "Скасувати",
     "t_project_toml_editor_save": "Save & resolve",
-    "t_project_toml_editor_placeholder": "This is a TOML file. You can set metadata for your project here.",
+    "t_project_toml_editor_placeholder": "Це TOML файл. Ви можете встановити метадані для свого проєкту тут.",
     "t_project_toml_editor_wait_cells": "Please wait for all cells to finish executing.",
     "t_project_toml_editor_wait_packages": "Please wait for all package operations to finish (also in other notebooks).",
     "t_project_toml_editor_synchronized": "Project TOML synchronized ✔\n\nView the Status tab for logs.",
