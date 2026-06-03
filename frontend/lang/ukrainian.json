@@ -227,7 +227,7 @@
     "t_no": "Ні",
     "t_no_key": "Ні {{key}}",
     "t_yes": "Так",
-    "t_yes_key": "Ні {{key}}",
+    "t_yes_key": "Так {{key}}",
     "t_ai_accept_and_close": "Accept AI syntax fix and close",
     "t_ai_decline_and_close": "Decline AI syntax fix and close",
     "t_ai_accept_and_run": "Accept & Run",
